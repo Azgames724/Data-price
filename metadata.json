@@ -1,0 +1,6 @@
+{
+  "name": "Addis Taxi Fare Tracker",
+  "description": "A crowdsourced platform to track and report minibus taxi fares across various stations in Addis Ababa, Ethiopia.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
